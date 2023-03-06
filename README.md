@@ -1,1 +1,2 @@
-This is a Notes taking app built in React Js. The notes are being persisted means all the notes are stored in the local storage. Hope you like the design and functionalities of this notes app. Feel free to clone this repo and add some more features.
+#APP MI NOTAS
+Esta es una aplicación para tomar notas construida en React Js. Las notas se conservan significa que todas las notas se almacenan en el almacenamiento local. Espero que les guste el diseño y las funcionalidades de esta aplicación de notas.
